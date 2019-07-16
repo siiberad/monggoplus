@@ -24,6 +24,3 @@
 /nbdist/
 /.nb-gradle/
 
-application.properties
-*.properties
-application.properties
